@@ -1,5 +1,4 @@
-![image](https://github.com/vishy395/vishy395/assets/173711917/d7474e6b-3c08-4748-983d-2fd3ae133c72)
-
+![](https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif)
 <h2 align="left">Hi 👋! My name is Vishnu Murugesh and I'm a student, from India</h2>
 
 
